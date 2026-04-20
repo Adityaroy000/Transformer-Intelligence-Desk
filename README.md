@@ -109,10 +109,8 @@ User Question
 ├── capstone_streamlit.py     # Streamlit chat UI — run this to launch the app
 ├── day13_capstone.ipynb      # Full capstone notebook (8-part workflow)
 ├── requirements.txt          # Python dependencies
-├── .env                      # GROQ_API_KEY (not committed)
 ├── .streamlit/
-│   └── config.toml           # Streamlit theme config
-└── code files/               # Course reference notebooks (Day 1–12)
+    └── config.toml           # Streamlit theme config
 ```
 
 ---
